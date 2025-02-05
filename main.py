@@ -6,7 +6,7 @@ def add(x,y):
 
 def func():
     x = 7
-    print("bob")
+    print("sue")
 
 
 if __name__ == '__main__':
