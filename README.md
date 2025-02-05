@@ -1,8 +1,9 @@
 # testtesttest
 
 ```mermaid
-graph TD
+graph LR
 
-A --> B
+A[start] <--> C{Do you like fish?}
+B(end)
 
 ```
